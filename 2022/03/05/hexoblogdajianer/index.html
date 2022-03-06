@@ -419,7 +419,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2022-03-05
+                    2022-03-06
                 </div>
                 
 
@@ -459,7 +459,7 @@
 </blockquote>
 <p>选择windows安装包.msi安装,运行安装包，我们默认选择c盘(不要换成其他盘，不然可能还得配置环境)</p>
 <p>在这里选择Add to PATH然后点Next继续就行了</p>
-<p><img src="https://uploadbeta.com/share-image/hDb" alt="图片alt" title="图片"></p>
+<p><img src="https://uploadbeta.com/share-image/hDb" alt="图片" title="图片"></p>
 <ul>
 <li>安装Git</li>
 </ul>
@@ -507,7 +507,7 @@ $ npm -v<span aria-hidden="true" class="line-numbers-rows"><span></span><span></
 <pre class="line-numbers language-none"><code class="language-none">$ hexo s<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
 
 <p>然后会出来一段http开头的网址，我们复制下来然后在浏览器打开</p>
-<p><img src="https://uploadbeta.com/share-image/hDc" alt="图片alt" title="图片"></p>
+<p><img src="https://uploadbeta.com/share-image/hDc" alt="图片" title="图片"></p>
 <p>就会出现hello world欢迎页面了</p>
 <h2 id="更换主题"><a href="#更换主题" class="headerlink" title="更换主题"></a>更换主题</h2><p>你是否觉得默认主题有点不好看呢？现在教你如何替换主题</p>
 <p>hexo的所有主题都在下面这个地址：</p>
@@ -632,11 +632,11 @@ $ npm -v<span aria-hidden="true" class="line-numbers-rows"><span></span><span></
 </blockquote>
 <p>注册一个coding的账号，这里不做演示</p>
 <p>然后按照图片新建一个项目</p>
-<p><img src="https://uploadbeta.com/share-image/hDe" alt="图片alt" title="图片"></p>
+<p><img src="https://uploadbeta.com/share-image/hDe" alt="图片" title="图片"></p>
 <p>选择devops</p>
-<p><img src="https://uploadbeta.com/share-image/hDf" alt="图片alt" title="图片"></p>
+<p><img src="https://uploadbeta.com/share-image/hDf" alt="图片" title="图片"></p>
 <p>填入相关信息，记得勾选**<code>启用README.cd文件初始化项目</code>**</p>
-<p><img src="https://uploadbeta.com/share-image/hDh" alt="图片alt" title="图片"></p>
+<p><img src="https://uploadbeta.com/share-image/hDh" alt="图片" title="图片"></p>
 <p>然后完成创建</p>
 <p>我们暂时不能直接上传，需要进行一些配置，如下：</p>
 <p>接下来需要我们创建一个git秘钥</p>
@@ -650,7 +650,7 @@ $ npm -v<span aria-hidden="true" class="line-numbers-rows"><span></span><span></
 
 <p>会输出你的秘钥，我们复制输出信息就行了</p>
 <p>然后点击头像，打开个人设置–选择SSH公钥–新增公钥</p>
-<p><img src="https://uploadbeta.com/share-image/hDj" alt="图片alt" title="图片"></p>
+<p><img src="https://uploadbeta.com/share-image/hDj" alt="图片" title="图片"></p>
 <p>然后将你复制的秘钥粘贴进去，记得勾选永久有效</p>
 <p>然后打开git bash</p>
 <p>执行：</p>
@@ -658,7 +658,7 @@ $ npm -v<span aria-hidden="true" class="line-numbers-rows"><span></span><span></
 
 <p>会提示你下面这个，输入yes回车就行了</p>
 <p>接下来打开你的项目选择SSH，然后复制右边git开头的地址</p>
-<p><img src="https://uploadbeta.com/share-image/hDk" alt="图片alt" title="图片"></p>
+<p><img src="https://uploadbeta.com/share-image/hDk" alt="图片" title="图片"></p>
 <p>打开站点配置文件</p>
 <p>修改deploy信息</p>
 <pre class="line-numbers language-none"><code class="language-none">deploy:
@@ -683,7 +683,7 @@ $ git config --global user.email &quot;youremail&quot;<span aria-hidden="true" c
 <p>然后打开项目，打开构建与部署–静态网站–立即发布静态网站</p>
 <p>coding需要实名认证，只需要你输入身份证号就可以了，不用担心泄露隐私，因为coding现在是腾讯的</p>
 <p>我们只要填写网站名称就行了，然后保存</p>
-<p><img src="https://uploadbeta.com/share-image/hDx" alt="图片alt" title="图片"></p>
+<p><img src="https://uploadbeta.com/share-image/hDx" alt="图片" title="图片"></p>
 <p>因为是刚构建的网站，所以要手动部署一下，以后上传就不需要手动部署</p>
 <p>然后访问所给的地址，那个就是我们网站的地址了</p>
 <p>之后每次修改完博客要上传的时候，只需执行上传命令</p>
@@ -1477,6 +1477,56 @@ $ git config --global user.email &quot;youremail&quot;<span aria-hidden="true" c
 
 
     <footer class="page-footer bg-color">
+    
+        <link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
+<style>
+    .aplayer .aplayer-lrc p {
+        
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 16px !important;
+    }
+
+    .aplayer .aplayer-lrc p.aplayer-lrc-current {
+        
+        font-size: 15px;
+        color: #42b983;
+    }
+
+    
+    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+        left: -66px !important;
+    }
+
+    .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+        left: 0px !important;
+    }
+
+    
+</style>
+<div class="">
+    
+    <div class="row">
+        <meting-js class="col l8 offset-l2 m10 offset-m1 s12"
+                   server="netease"
+                   type="playlist"
+                   id="2621145115"
+                   fixed='true'
+                   autoplay='true'
+                   theme='#42b983'
+                   loop='all'
+                   order='random'
+                   preload='auto'
+                   volume='0.5'
+                   list-folded='true'
+        >
+        </meting-js>
+    </div>
+</div>
+
+<script src="/libs/aplayer/APlayer.min.js"></script>
+<script src="/libs/aplayer/Meting.min.js"></script>
+
     
 
     <div class="container row center-align"
