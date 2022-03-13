@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> Typecho </tag>
-            
             <tag> WordPress </tag>
+            
+            <tag> Typecho </tag>
             
         </tags>
       
@@ -35,7 +35,7 @@
       <link href="/2022/03/13/wordpresszhutigit/"/>
       <url>/2022/03/13/wordpresszhutigit/</url>
       
-        <content type="html"><![CDATA[<p> Git主题是作者对欲思主题的二次修改版本，虽然是一套免费的<a href="https://www.iztwp.com/">wordpress主题</a>，但是却有着非常多实用的功能，能看出作者确实是花了不少心思来开发和优化这套主题。</p><p>官网介绍：<a href="https://gitcafe.net/archives/3589.html">https://gitcafe.net/archives/3589.html</a></p><p><img src="https://www.iztwp.com/wp-content/uploads/2018/03/git.jpg" alt="图片"></p><h2 id="主题特色"><a href="#主题特色" class="headerlink" title="主题特色"></a>主题特色</h2><ul><li>兼容 IE9+、谷歌 Chrome 、火狐 Firefox 等主流浏览器</li><li><a href="https://www.mywpku.com/tag/%E6%89%81%E5%B9%B3%E5%8C%96">扁平化</a>+<a href="https://www.mywpku.com/tag/%E5%93%8D%E5%BA%94%E5%BC%8F">响应式</a>设计，兼容电脑、平板和手机访问</li><li>主题设置面板新增多种广告位，PC端和移动设备各不相同</li><li>自带7+小工具，可随意设置侧栏分类和浮动块。</li><li>基本<a href="https://www.mywpku.com/tag/seo">SEO</a>：首页、分类、文章等页面都可以设置关键词和描述</li><li>内置实用功能：Ajax加载分页、垃圾广告拦截、<a href="https://www.mywpku.com/tag/%E7%BC%93%E5%AD%98">缓存</a>头像、社交账户图标等</li><li><a href="https://www.mywpku.com/tag/duan_dai_ma">短代码</a>包括dm和dl、gt等,可自主选择。</li></ul><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li>启用主题之前必须禁用插件，比如字体插件，头像插件等</li><li>主题下载后重命名为Git-alpha，然后安装主题</li><li>主题主页：<a href="https://googlo.me/archives/3589.html">https://googlo.me/archives/3589.html</a></li><li>主题更新日志：<a href="https://coding.net/u/googlo/p/Git/git/plot/alpha">https://coding.net/u/googlo/p/Git/git/plot/alpha</a></li><li>主题使用文档：<a href="https://googlo.me/archives/3275.html">https://googlo.me/archives/3275.html</a></li><li>主题下载：<a href="https://coding.net/u/googlo/p/Git/git/archive/alpha">https://coding.net/u/googlo/p/Git/git/archive/alpha</a></li></ul><h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><p>根据官网常见问题整理的文档</p><p>教程：<a href="%5BWordPress%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B(%E4%B8%83)----WordPress%E4%B8%BB%E9%A2%98%E4%B9%8BGit-alpha_fendo-CSDN%E5%8D%9A%E5%AE%A2_git%E4%B8%BB%E9%A2%98%5D(https://blog.csdn.net/u011781521/article/details/82824677)">传送门</a></p>]]></content>
+        <content type="html"><![CDATA[<p> Git主题是作者对欲思主题的二次修改版本，虽然是一套免费的<a href="https://www.iztwp.com/">wordpress主题</a>，但是却有着非常多实用的功能，能看出作者确实是花了不少心思来开发和优化这套主题。</p><p>官网介绍：<a href="https://gitcafe.net/archives/3589.html">https://gitcafe.net/archives/3589.html</a></p><p><img src="https://www.iztwp.com/wp-content/uploads/2018/03/git.jpg" alt="图片"></p><h2 id="主题特色"><a href="#主题特色" class="headerlink" title="主题特色"></a>主题特色</h2><ul><li>兼容 IE9+、谷歌 Chrome 、火狐 Firefox 等主流浏览器</li><li><a href="https://www.mywpku.com/tag/%E6%89%81%E5%B9%B3%E5%8C%96">扁平化</a>+<a href="https://www.mywpku.com/tag/%E5%93%8D%E5%BA%94%E5%BC%8F">响应式</a>设计，兼容电脑、平板和手机访问</li><li>主题设置面板新增多种广告位，PC端和移动设备各不相同</li><li>自带7+小工具，可随意设置侧栏分类和浮动块。</li><li>基本<a href="https://www.mywpku.com/tag/seo">SEO</a>：首页、分类、文章等页面都可以设置关键词和描述</li><li>内置实用功能：Ajax加载分页、垃圾广告拦截、<a href="https://www.mywpku.com/tag/%E7%BC%93%E5%AD%98">缓存</a>头像、社交账户图标等</li><li><a href="https://www.mywpku.com/tag/duan_dai_ma">短代码</a>包括dm和dl、gt等,可自主选择。</li></ul><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li>启用主题之前必须禁用插件，比如字体插件，头像插件等</li><li>主题下载后重命名为Git-alpha，然后安装主题</li><li>主题主页：<a href="https://googlo.me/archives/3589.html">https://googlo.me/archives/3589.html</a></li><li>主题更新日志：<a href="https://coding.net/u/googlo/p/Git/git/plot/alpha">https://coding.net/u/googlo/p/Git/git/plot/alpha</a></li><li>主题使用文档：<a href="https://googlo.me/archives/3275.html">https://googlo.me/archives/3275.html</a></li><li>主题下载：<a href="https://coding.net/u/googlo/p/Git/git/archive/alpha">https://coding.net/u/googlo/p/Git/git/archive/alpha</a></li></ul><h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><p>根据官网常见问题整理的文档</p><p>教程：<a href="https://blog.csdn.net/u011781521/article/details/82824677?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_ecpm_v1~rank_v31_ecpm-1-82824677.pc_agg_new_rank&utm_term=Git%E4%B8%BB%E9%A2%98%E5%AE%98%E6%96%B9%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3+wordprss&spm=1000.2123.3001.4430">传送门</a></p>]]></content>
       
       
       <categories>
@@ -174,13 +174,13 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
-            <tag> blog </tag>
+            <tag> WordPress </tag>
             
             <tag> Typecho </tag>
             
-            <tag> WordPress </tag>
+            <tag> hexo </tag>
+            
+            <tag> blog </tag>
             
         </tags>
       
