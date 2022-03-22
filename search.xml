@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>英雄</title>
+      <link href="/2022/03/22/yingxiong/"/>
+      <url>/2022/03/22/yingxiong/</url>
+      
+        <content type="html"><![CDATA[<p>   我最近在读《明朝那些事儿》，内容挺通俗易懂的，让我一开始读就停不下来，在书里总能找到一些金句，富有人生哲理，引人深思。以下文字摘自于谦的那一章节。</p><h2 id="英雄"><a href="#英雄" class="headerlink" title="英雄"></a>英雄</h2><p> 在国家出现危难之时，总有一些人挺身而出，为国效力，这样的人，我们称为英雄。 英雄不是人人都能当的。一般看来，英雄有如下特点： </p><ul><li><p>敢为人之所不敢为，敢当人之所不敢当。</p></li><li><p>挽狂澜于既倒，扶大厦于将倾。 </p></li></ul><p>金句</p><p> 只有懂得畏惧的人，才能唤起自己的力量。</p><p> 只有懂得畏惧的人，才有勇气去战胜畏惧。</p><p> 懂得畏惧的可怕，还能超越它、征服它的人，就是英雄。</p><p> 这就是我所认为的真正的英雄——畏惧并战胜畏惧的人。</p><p> 关键只在于那畏惧的一刻，你是选择战胜它，还是躲避它。</p><p> 人生的分界线就在这里，跨过了这一步就是英雄，退回这一步就是懦夫！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 读书笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 明朝那些事儿 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>导航主题Webstack</title>
       <link href="/2022/03/13/daohangzhitiwebstack/"/>
       <url>/2022/03/13/daohangzhitiwebstack/</url>
@@ -174,11 +199,11 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> WordPress </tag>
             
             <tag> Typecho </tag>
+            
+            <tag> hexo </tag>
             
             <tag> blog </tag>
             
